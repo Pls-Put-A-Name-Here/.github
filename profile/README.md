@@ -43,7 +43,7 @@ Here are some of our featured projects:
 
 ### Project One
 
-Description of Project One. [Repository Link](https://github.com/Pls-Put-A-Name-Here/project-one)
+Description of Project One. [Repository Link](https://github.com/Pls-Put-A-Name-Here/CRUD_Project)
 
 ### Project Two
 
